@@ -215,10 +215,11 @@ code { font-size: .9em; background: var(--cream); padding: .1em .35em; border-ra
 
 /* clients */
 .client-wall { list-style: none; padding: 0; margin: 0 0 2.5rem; display: grid; grid-template-columns: repeat(4, 1fr); border-top: 1px solid var(--rule); border-left: 1px solid var(--rule); }
-.client-wall li { font-family: var(--serif); font-size: clamp(1.05rem, 1.6vw, 1.35rem); padding: 1.6rem 1.2rem; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); text-align: center; display: grid; place-items: center; min-height: 104px; transition: background .3s, color .3s; }
-.client-wall li:hover { background: var(--ink); color: var(--gold); }
+.client-wall li { padding: 1.6rem 1.4rem; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); display: grid; place-items: center; min-height: 120px; }
+.client-wall img { height: calc(var(--h) * 1.1); width: auto; max-width: 100%; object-fit: contain; opacity: .82; transition: opacity .3s, transform .3s var(--ease); }
+.client-wall li:hover img { opacity: 1; transform: scale(1.04); }
 .client-wall.small { grid-template-columns: repeat(2, 1fr); }
-.client-wall.small li { min-height: 80px; font-size: 1.1rem; }
+.client-wall.small li { min-height: 96px; }
 .by-sector { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2.5rem 4rem; }
 .by-sector h3 { font-size: 1.25rem; padding-bottom: .8rem; border-bottom: 1px solid var(--rule); }
 .by-sector h3 a { text-decoration: none; } .by-sector h3 a:hover { color: var(--forest); }
@@ -374,7 +375,8 @@ address { font-style: normal; line-height: 1.7; }
   .sector-grid, .service-grid, .service-grid.three, .steps, .footer-grid { grid-template-columns: 1fr; }
   .service-card { border-left: 1px solid var(--rule); }
   .client-wall { grid-template-columns: repeat(2, 1fr); }
-  .client-wall li { min-height: 84px; font-size: 1rem; padding: 1rem .6rem; }
+  .client-wall li { min-height: 92px; padding: 1rem .8rem; }
+  .client-wall img { height: calc(var(--h) * .8); }
   .stat-grid { grid-template-columns: 1fr 1fr; gap: 1.5rem 1rem; }
   .logo { height: 26px; }
   .hero-scroll { display: none; }
