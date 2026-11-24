@@ -1,0 +1,24 @@
+# Formidable
+
+> Formidable is an executive search and talent consultancy for founders, CEOs, and family offices. It recruits executives, builds teams, provides fractional C-suite leaders, and designs organizations in six sectors where the work shapes public life. Led by Nathaniel Koloc. Based in Bedford, New York. Contact: hello@formidable.services.
+
+## Services
+- [Executive Search](https://formidable.services/executive-search.html): One critical hire, found with care and closed with conviction.
+- [Team Builds](https://formidable.services/team-builds.html): Several hires at once, designed as a team, not a list.
+- [Fractional C-Suite](https://formidable.services/fractional-c-suite.html): Senior leadership now, while the permanent hire takes shape.
+- [Organizational Design](https://formidable.services/org-design.html): The structure that lets good people do great work.
+
+## Sectors
+- [Built Environment & Urban Development](https://formidable.services/built-environment.html): Parks, waterfronts, housing, and the places where public life actually happens.
+- [Manufacturing & Industrials](https://formidable.services/manufacturing-industrials.html): Rebuilding the capacity to make things, at home and at scale.
+- [Climate & Resilience](https://formidable.services/climate-resilience.html): The companies and coalitions helping communities adapt, decarbonize, and endure.
+- [Democracy Reform & Policy Innovation](https://formidable.services/democracy-reform.html): Organizations working to make self-government work better for everyone.
+- [Cozytech](https://formidable.services/cozytech.html): Technology built to bring people closer, not to keep them scrolling.
+- [Ecology & Conservation](https://formidable.services/ecology-conservation.html): Protecting and restoring the living systems everything else depends on.
+
+## About
+- [Approach: Legacy, Mastery, Freedom](https://formidable.services/approach.html): legacy guides mastery, which unlocks freedom.
+- [Nathaniel Koloc](https://formidable.services/about.html): 50+ executive searches; hiring systems that placed 12,000+ people; co-founder of ReWork (acquired by Koya Leadership Partners, 2018).
+- [Selected clients](https://formidable.services/clients.html): BerlinRosen, Blue Whale Materials, HR&A Advisors, New Harvest, Orchestra, Urban Villages, The Resiliency Company, Waterfront Alliance, The High Line, Palm Ventures, Unite America, Parallax.
+- [Writing](https://formidable.services/writing.html): Harvard Business Review, Palladium Magazine, Entrepreneur, The Muse, Quartz.
+- [Contact](https://formidable.services/contact.html)
